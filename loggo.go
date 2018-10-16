@@ -1,4 +1,4 @@
-package loggo
+package logging
 
 import (
 	"log"
